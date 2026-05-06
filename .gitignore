@@ -1,0 +1,42 @@
+############################
+# Unity + XR .gitignore
+############################
+
+# ========== Unity Generated ==========
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# ========== Package Cache ==========
+Library/PackageCache/
+
+# ========== Visual Studio / Rider ==========
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# ========== OS Files ==========
+.DS_Store
+Thumbs.db
+
+# ========== Unity Cache ==========
+*.apk
+*.aab
+
+# ========== Crash Reports ==========
+sysinfo.txt
+
+# ========== Auto Generated ==========
+*.log
